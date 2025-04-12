@@ -37,8 +37,23 @@ As I progress through my **BSc Computer Science degree**, I’ll add solutions i
 
 Each file contains:
 - The problem number and name
-- A link to the original problem
+- A link to the original problem on Leetcode
 - My solution with comments if needed
+
+---
+
+## ⚠️ Disclaimer
+
+Some of the solutions in this repository may not follow the exact function signature or formatting required by LeetCode.  
+This is intentional: I’m using these problems to practice **problem-solving and algorithm design** in my own way.  
+I focus on writing full, testable programs independently, rather than copying and pasting into an online editor.
+
+This approach helps me:
+- Understand the logic deeply
+- Learn to write complete programs from scratch
+- Think outside the box
+
+When I need to submit to platforms like LeetCode, I can always adjust the structure to match the required format.
 
 ---
 
